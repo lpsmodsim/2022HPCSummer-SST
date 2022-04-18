@@ -32,3 +32,4 @@ sudo yum install singularity-runtime
 
 GitHub LFS (Large File Storage) apparently has size limits and download limitations which seem counter-productive...
 The pre-built SST singularity container will be provided to you and can be used in place of this repository
+The sif should be placed in /usr/local/bin/
