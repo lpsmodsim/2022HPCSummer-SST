@@ -1,3 +1,6 @@
+This Singularity container was constructed using https://github.com/tactcomplabs/sst-containers, specifically
+sstpackage-11.1.0-ubuntu-20.04.def
+
 # Ubuntu
 
 https://sylabs.io/guides/3.0/user-guide/installation.html#install-the-debian-ubuntu-package-using-apt
